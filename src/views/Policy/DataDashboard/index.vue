@@ -165,7 +165,7 @@ import IndustrialChain from "./IndustrialChain.vue";
 import DataOverview from "./DataOverview.vue";
 </script>
 
-<style scoped>
+<style scoped >
 .screen {
   width: 100vw;
   height: 100vh;
