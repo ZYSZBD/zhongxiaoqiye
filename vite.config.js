@@ -9,7 +9,7 @@ import VueRouter from 'unplugin-vue-router/vite'
 
 export default defineConfig(({ mode }) => {
   return {
-    base: '/',
+    base: '/zhongxiaoqiye/',
 
     plugins: [
       /**
