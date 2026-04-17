@@ -1,0 +1,30 @@
+{
+  "name": "pc-website-vue3",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "axios": "^1.6.8",
+    "echarts-gl": "^2.0.9",
+    "echarts-wordcloud": "^2.1.0",
+    "element-plus": "^2.7.2",
+    "pinia": "^3.0.4",
+    "vue": "^3.4.21",
+    "vue-demi": "^0.14.10",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.6.2",
+    "echarts": "^6.0.0",
+    "sass": "^1.99.0",
+    "unplugin-auto-import": "^0.17.8",
+    "unplugin-vue-components": "^0.25.2",
+    "unplugin-vue-router": "^0.10.9",
+    "vite": "^4.5.3",
+    "vite-plugin-compression": "^0.5.1"
+  }
+}
